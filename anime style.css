@@ -1,0 +1,189 @@
+
+
+body{
+    background-size:contain;
+    background-color:honeydew;
+  
+}
+
+.name{
+color: ;
+text-decoration-style: double;
+text-decoration-line: underline;
+}
+
+.nav{
+   height:30px;
+   background-color: black;
+   display: flex;
+   justify-content: space-evenly;
+   position: relative;
+   top: 12px;
+   transition-property: all;
+}
+.an{
+    position: relative;
+    top:15px;
+    height: 2000px;
+    background-color:transparent;
+}
+.anime{
+background-color: aqua;
+height: 1in;
+width: 150px;
+}
+.me{
+    text-decoration-line: underline;
+    background-color:black;
+    height:200px;
+    color: orange;
+    
+}
+.anime9{
+    height: 160px;
+    width: 325px;
+    background-size: contain;
+    background-image: url(https://ramenparados.com/wp-content/uploads/2016/11/Code-Geass-anime.jpg);
+}
+.anime2{
+    height: 200px;
+    width: 140px;
+    background-size: contain;
+    background-image: url(https://static.animecorner.me/2024/12/1734448340-5431132c50f6b3219f953e38401782d2.jpg);
+    display: flex;
+}
+.anime8{
+    height: 200px;
+    width: 290px;
+    background-size: cover;
+    background-image: url(https://images8.alphacoders.com/545/545288.jpg);
+}
+.anime4{
+    height: 200px;
+    width: 130px;
+    background-size: contain;
+    background-image: url(https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/naruto.jpg);
+}
+.anime5{
+    height: 200px;
+    width: 130px;
+    background-size: contain;
+    background-image: url(https://www.themoviedb.org/t/p/original/e9ekL7KBVpK7DPIDDfl5Fy4DPAe.jpg);
+}
+.anime6{
+    height: 180px;
+    width: 130px;
+    background-size: contain;
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.7fVeY0x6W0iR9JKYerxKpgHaKd?pid=Api&P=0&h=180);
+}
+.anime7{
+    height: 180px;
+    width: 130px;
+    background-size: contain;
+    background-image: url(https://images.justwatch.com/poster/246674458/s718/season-1.jpg);
+}
+.anime3{
+    height: 180px;
+    width: 130px;
+    background-size: contain;
+    background-image: url(https://www.animenewsnetwork.com/images/cms/anime-spotlight/103520/relifegal2.jpg);
+}
+.anime1{
+    
+    height: 180px;
+    width: 130px;
+    background-size: contain;
+    background-image: url(https://images.justwatch.com/poster/322109303/s718/season-1.jpg);
+    display: flex;
+    
+    
+}
+.a1{
+    display: flex;
+    color: yellow;
+    background-color: black;
+}
+.me{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.ar{
+    width: 1200px;
+}
+.sub1{
+    position: relative;
+    top: 60px;
+}
+.top{
+    background-color: black;
+    color: blue;
+}
+.blue{
+    color: blue;
+    
+}
+.a2{
+    display: flex;
+    background-color: black;
+    color: yellow;
+    position: relative;
+    height: 190px;
+}
+.but{
+    display:flex;
+    justify-content: end;
+  
+    
+}
+.b{
+    color: violet;
+    background-color: aqua;
+   
+}
+button:hover{
+    background-color: blue;
+}
+button:active{
+    background-color: gold;
+}
+.a1:active{
+    color: blue;
+}
+.a2:active{
+    color: blue;
+}
+.a3:active{
+    color: blue;
+}
+.a4:active{
+    color: blue;
+}
+.a5:active{
+    color: blue;
+}
+.a6:active{
+    color: blue;
+}
+.a7:active{
+    color: blue;
+}
+.a8:active{
+    color: blue;
+}
+.la:hover{
+    font-size: 20px;
+    
+}
+.rg:hover{
+    font-size: 20px;
+    
+}
+.er:hover{
+    font-size: 20px;
+    
+}
+.fon:hover{
+    font-size: 20px;
+    color: mediumturquoise;
+}
